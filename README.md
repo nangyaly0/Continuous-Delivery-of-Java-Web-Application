@@ -1,4 +1,4 @@
-# Project-7: Continuous Delivery with Jenkins and Tools
+# Continuous Delivery with Jenkins and Tools
 
 [*Project Source*](https://www.udemy.com/course/devopsprojects/?src=sac&kw=devops+projects)
 
